@@ -12,7 +12,6 @@
 - 🐹 I write backend services in **Go** (REST, gRPC)
 - 🗄️ I work with relational databases — **PostgreSQL** with **PostGIS** for geodata
 - 🗺️ I process and visualise geospatial data using **QGIS** and **ArcGIS**
-- 📰 I write about IT news and technology
 
 ---
 
